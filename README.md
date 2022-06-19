@@ -1,3 +1,4 @@
 # livro-receita-meu-segundo-repositorio
-Meu Livro de Recitas 
-*Receitas  da minha família 
+Meu Livro de Recitas
+
+Receitas da minha família
